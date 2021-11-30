@@ -10,6 +10,7 @@ sap.ui.define([
 		return Controller.extend("com.sap.training.ux402.ux402_composite.controller.Carrier", {
             getRouter: function() {
 			    return sap.ui.core.UIComponent.getRouterFor(this);
+				test1
 		    },
 
 		    onPress: function(oEvent) {
