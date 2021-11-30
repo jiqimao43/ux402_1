@@ -8,7 +8,7 @@ sap.ui.define([
 			properties: {
 				"allowHover": {
 					type: "boolean",
-					defaultValue: false
+					defaultValue: false2
 				},
 				"hoverText": {
 					type: "string"
